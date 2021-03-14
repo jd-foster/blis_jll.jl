@@ -1,6 +1,6 @@
 name = "blis_jll"
 uuid = "6136c539-28a5-5bf0-87cc-b183200dce32"
-version = "0.8.0+0"
+version = "0.8.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
