@@ -61,9 +61,9 @@ os = "freebsd"
     url = "https://github.com/JuliaBinaryWrappers/blis_jll.jl/releases/download/blis-v0.9.0+1/blis.v0.9.0.x86_64-unknown-freebsd.tar.gz"
 [[blis]]
 arch = "x86_64"
-git-tree-sha1 = "960e6033270289b3263ec094b677145937cab89b"
+git-tree-sha1 = "bb9fc06013b6d330fea4019af48ef1fccf2f80bf"
 os = "windows"
 
     [[blis.download]]
-    sha256 = "1b99fa9e500b8b76968cb55bcb9cdb76ad6ad93e472f9c340a037434b70f3aa1"
-    url = "https://github.com/JuliaBinaryWrappers/blis_jll.jl/releases/download/blis-v0.9.0+1/blis.v0.9.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "ec157a169bd13cc5f7b2f3f7a2e268d31da2e5beeb93af5b7b6205513f4c8062"
+    url = "https://github.com/jd-foster/blis_jll.jl/releases/download/blis-v0.9.0+2/blis.v0.9.0.x86_64-w64-mingw32.tar.gz"
