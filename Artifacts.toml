@@ -27,14 +27,6 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/blis_jll.jl/releases/download/blis-v0.9.0+4/blis.v0.9.0.armv7l-linux-gnueabihf.tar.gz"
 [[blis]]
 arch = "x86_64"
-git-tree-sha1 = "5435bd190a892b6bee340a673666cdf5ec4db24c"
-os = "macos"
-
-    [[blis.download]]
-    sha256 = "527c67d31b447ec0010b0a35ab8e7e1de882d81eb36eb293687b4659331a68fc"
-    url = "https://github.com/JuliaBinaryWrappers/blis_jll.jl/releases/download/blis-v0.9.0+4/blis.v0.9.0.x86_64-apple-darwin.tar.gz"
-[[blis]]
-arch = "x86_64"
 git-tree-sha1 = "3d9c1a6f0bd9ed317a031702dc47068a05ac7a9c"
 libc = "glibc"
 os = "linux"
@@ -67,3 +59,11 @@ os = "windows"
     [[blis.download]]
     sha256 = "f3edf9e198fc0ecc5a16bfe0fcd63ef6f5ba4f379f5cfae85c7c0ecc64a1c646"
     url = "https://github.com/JuliaBinaryWrappers/blis_jll.jl/releases/download/blis-v0.9.0+4/blis.v0.9.0.x86_64-w64-mingw32.tar.gz"
+[[blis]]
+arch = "x86_64"
+git-tree-sha1 = "4d5b878495aac69f054663116b6e696b4b6efef6"
+os = "macos"
+
+    [[blis.download]]
+    sha256 = "2439f04aa2f713adfe00589566d99cfc1b2bbf4206cc4132440a2804c74527a4"
+    url = "https://github.com/jd-foster/blis_jll.jl/releases/download/blis-v0.9.1+0/blis.v0.9.1.x86_64-apple-darwin.tar.gz"
